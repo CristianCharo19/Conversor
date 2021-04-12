@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Conversor</string>
+    <string name="current_money">Moneda actual</string>
+    <string name="exchange_money">Moneda de cambio</string>
+    <string name="value_to_change">Valor a cambiar</string>
+    <string name="conversion">Conversión</string>
+    <string name="info">Información de la conversión:</string>
+    <string name="value">Valor: </string>
+    <string name="dolar">Dolar</string>
+    <string name="dolares">Dolares</string>
+    <string name="euro">Euro</string>
+    <string name="euros">Euros</string>
+    <string name="peso_colombiano">Peso Colombiano</string>
+    <string name="pesos_colombianos">Pesos Colombianos</string>
+    <string-array name="coins">
+        <item>Dolar</item>
+        <item>Euro</item>
+        <item>Peso Colombiano</item>
+    </string-array>
+</resources>
